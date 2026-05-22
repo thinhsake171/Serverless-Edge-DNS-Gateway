@@ -14474,6 +14474,8 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -15369,7 +15371,6 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -17083,7 +17084,6 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -19050,7 +19050,6 @@ api.hauzriviera.com
 api.hdtv.letv.com
 api.healthlife.magazine4you.site
 api.hearclearco.store
-api.helefitness.com.br
 api.herbalista.net
 api.hfyhjg.cn
 api.hinutrition.com.br
@@ -30903,7 +30902,6 @@ cbdatatracker.com
 cbdedibles.site
 cbdm.weathercn.com
 cbembusgcl.com
-cben1.net
 cberj.fellowproducts.com
 cbff1ao9.xyz
 cbfnid.dr-g.co.kr
@@ -31953,7 +31951,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -32081,6 +32078,7 @@ cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
 cdn.zampda.net
+cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -39600,7 +39598,6 @@ custom.supersellers.no
 custom.toydoggiebrand.com
 custom.weba-sonnenschirme.de
 custom.webafahnen.de
-custom.zazvendas.com.br
 custom1.nirmul.com
 customad.cnn.com
 customadrequest.com
@@ -45022,6 +45019,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.venetianlasvegas.com
 data.info.viking.com
 data.info.xpempresas.com.br
@@ -63524,6 +63522,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -106262,7 +106261,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -113775,7 +113773,6 @@ paxsfiss.com
 paxtrz.dreamplacehotels.com
 paxxfiss.com
 paxzslunbisvh.online
-pay-ads.com
 pay-click.ru
 pay-hit.com
 pay.com
@@ -116911,6 +116908,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -118647,6 +118645,7 @@ pscunow.fmservice.com
 psdlcuqojbuxn.space
 pse.gabor.com
 psedwm.com
+pservice.com
 psetu.citybonfires.com
 psfcnf.ochsnersport.ch
 psgddusxwtmgj.online
@@ -125042,7 +125041,6 @@ reaktion.com
 real-feedback.toros.daum.net
 real.delovoemesto.ru
 real.pclick.yahoo.com
-real.sp.analytics.yahoo.com
 realbig.media
 realcastmedia.com
 realcfadsblog.com
@@ -151280,7 +151278,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -161493,7 +161490,6 @@ sugs.m.sm.cn
 suhfnjm.com
 suicidalruse.com
 suiformupdrink.cyou
-suijidaohxl.top
 suipqsqihrccz.online
 suitablecondemntin.com
 suitablepartner.life
@@ -161899,7 +161895,6 @@ suurl.nuudcare.de
 suvgo.lacedhair.com
 suvloxmlkfier.online
 suvntjrxksruf.space
-suvxztxz.com
 suwanneeriverchamber.com
 suwytid.com
 suxbduziqbblv.store
@@ -171594,7 +171589,6 @@ tracking.byggindustrin.se
 tracking.c.mercedes-benz.co.in
 tracking.c.mercedes-benz.com.cn
 tracking.c.mercedes-benz.de
-tracking.caffecorretto.ro
 tracking.campaigns.drax.com
 tracking.candiceverbist.be
 tracking.capitalbank.jo
@@ -172200,7 +172194,6 @@ tracking.presswayy.com
 tracking.prismpartner.smt.docomo.ne.jp
 tracking.prmtracking.com
 tracking.prodiga.no
-tracking.produse-moldovenesti.ro
 tracking.profource.com
 tracking.project2deal.com
 tracking.propellerads.com
@@ -182644,7 +182637,6 @@ web.da.mgtv.com
 web.data.pplive.com
 web.delighted.com
 web.diebayerische.de
-web.e.aldermore.co.uk
 web.e.lotteryoffice.com.au
 web.e.obayaty.com
 web.e.panmacmillan.com
@@ -185537,6 +185529,7 @@ www.51link.com
 www.520click.com
 www.5345ll.com
 www.5634.com
+www.56yk.com
 www.57.com.cn
 www.5738.ru
 www.5857.com
@@ -191697,6 +191690,7 @@ z5.cnzz.com
 z5cgvvwvwryxyq5j29i4.cfd
 z5x.net
 z5x2v3qi4ex5omyqexwwk93.cfd
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z618.thenewsherald.com
@@ -192223,7 +192217,6 @@ zeydoo.com
 zezxeuydapept.site
 zezyjywaaqzke.top
 zfamagnky.com
-zfavpfjondwmnr.com
 zfaxahmcus.com
 zfc2ul88s.top
 zfcbuhkbpmbwy.space
