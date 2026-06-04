@@ -19,9 +19,6 @@ upos-sz-mirrorcosov.bilivideo.com upos-hz-mirrorakam.akamaized.net
 # Medium
 medium.com rocket.net
 
-# Pornhub
-pornhub.com www.pornhub.com
-
 # Apple
 
 # Amazon
