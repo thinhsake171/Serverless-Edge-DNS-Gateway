@@ -30,9 +30,10 @@ extract_domains() {
 }
 
 echo "Downloading and processing blocklists..."
-curl -fsSL --max-time 60 \
-https://raw.githubusercontent.com/bibicadotnet/blocklist_minimal/main/blocklists.txt \
-| extract_domains > "$BLOCK_TMP"
+{
+  curl -fsSL --max-time 60 	https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  curl -fsSL --max-time 60 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+} | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."
 curl -fsSL --max-time 60 \
