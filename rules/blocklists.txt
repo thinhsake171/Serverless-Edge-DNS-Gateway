@@ -184319,9 +184319,6 @@ ex.ingage.tech
 lampcfads.starbre.net
 lampservice.starbre.net
 ads-adaptv.vidible.tv
-assets.customer.io
-customer.io
-edge-west.customer.io
 track-sdk.customer.io
 ads.snapchat.com
 app-analytics-v2.snapchat.com
@@ -185427,6 +185424,7 @@ ac.enticecreep.com
 api.enticecreep.com
 tr.enticecreep.com
 s3-playable-ads.easybrain.com
+storage.orion.bendingspoons.com
 api.adtimaserver.vn
 log.adtimaserver.vn
 media.adtimaserver.vn
@@ -187434,6 +187432,7 @@ directcpmrev.com
 directleads.com
 directpaper.name
 directtrack.com
+dirigibleharbornewspaper.com
 discountclick.com
 displayadsmedia.com
 displayendpointstarring.com
@@ -188092,6 +188091,7 @@ myscreen.com
 mystat.pl
 mysticechohaven.com
 mytop-in.net
+mz.elapsehorsier.cyou
 mz.proxysmjameson.cfd
 mzyvyjsq.com
 n69.com
