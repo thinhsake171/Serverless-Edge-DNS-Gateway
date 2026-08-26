@@ -184815,6 +184815,7 @@ req.appads.in
 sg-tracker.appads.in
 www.appads.in
 api-apac.bidmachine.io
+api-eu-a.bidmachine.io
 api-eu.bidmachine.io
 api-us.bidmachine.io
 api.bidmachine.io
